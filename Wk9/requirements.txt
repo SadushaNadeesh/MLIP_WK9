@@ -1,0 +1,13 @@
+#Paste the following in the requirements.txt
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+dill
+
+mlflow
+-e .
